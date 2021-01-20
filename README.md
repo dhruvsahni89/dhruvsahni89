@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DHRUV SAHNI</h1>
 <h3 align="center">A passionate Backend developer from India, soon to be Full Stack Developer</h3>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsahni89&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsahni89" /> </p>
 
